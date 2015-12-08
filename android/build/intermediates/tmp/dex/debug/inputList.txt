@@ -1,0 +1,5 @@
+D:\Apps\supermario\android\build\intermediates\classes\debug
+D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.5.5-371ccf2c3babd3510dbf90d3968c043505e63d61.jar
+D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\core-1.0-b128c051a6465dfaf07d448c25dcf790e812bce3.jar
+D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.5-a1014672c097db3bcaa43805e11486f5d78493e2.jar
+D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\gdx-1.5.5-0b4b923bfeae66c843d95d775220be71a3886a0c.jar

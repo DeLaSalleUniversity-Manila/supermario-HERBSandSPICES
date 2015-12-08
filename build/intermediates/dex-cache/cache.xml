@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.5\9896d723afaeaae8229546119f9abffac5f8dbc7\gdx-1.5.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9896d723afaeaae8229546119f9abffac5f8dbc7">
+        <dex dex="D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\gdx-1.5.5-0b4b923bfeae66c843d95d775220be71a3886a0c.jar" />
+    </item>
+    <item
+        jar="D:\Apps\supermario\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5badc1d2002bd77c621064260708ce3f4e4c88d8">
+        <dex dex="D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\core-1.0-b128c051a6465dfaf07d448c25dcf790e812bce3.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.5.5\66f30434d02fbe94f098f75747df94d7136fa251\gdx-freetype-1.5.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66f30434d02fbe94f098f75747df94d7136fa251">
+        <dex dex="D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.5.5-371ccf2c3babd3510dbf90d3968c043505e63d61.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.5\16bbdb750c6e557693820bbcd31dd992c0f6839f\gdx-backend-android-1.5.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="16bbdb750c6e557693820bbcd31dd992c0f6839f">
+        <dex dex="D:\Apps\supermario\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.5-a1014672c097db3bcaa43805e11486f5d78493e2.jar" />
+    </item>
+
+</items>
